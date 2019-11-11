@@ -12,7 +12,9 @@
 
         # border-style: dashed;
 
+3. Solid Border
 
+        # border-style: solid;
 
 
 
