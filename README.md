@@ -32,4 +32,6 @@
 
         # border-style: inset;
 
-8. 
+8. Outer Border
+
+        # border-style: outset;
