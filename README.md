@@ -16,6 +16,20 @@
 
         # border-style: solid;
 
+4. Double Border
 
+        # border-style: double;
 
+5. Groove Border
 
+        # border-style: groove;
+
+6. Ridge Border
+
+        # border-style: ridge;
+
+7. Insert Border
+
+        # border-style: inset;
+
+8. 
